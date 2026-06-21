@@ -13,6 +13,7 @@ This project analyses retail sales data to identify sales trends, top performing
 - Microsoft Excel
 - MySQL Workbench
 - Tableau Public
+- Power BI
 
 ## Data Cleaning Process
 - Removed duplicate records
